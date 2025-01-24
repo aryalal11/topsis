@@ -6,3 +6,5 @@ TOPSIS is a Python implementation of the **Technique for Order of Preference by 
 
 You can install this package from PyPI:
 https://pypi.org/project/topsis-102203949/0.1.0/
+
+Type 'pip install topsis-102203949==0.1.0' 
